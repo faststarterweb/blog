@@ -1,57 +1,15 @@
-<!DOCTYPE HTML>
-<html lang="en" >
-    <head>
+---
+layout: home
+---
 
-        {%- include head.html -%}
+<style type="text/css" media="screen">
+  .container {
+    max-width: 600px;
+  }
+</style>
 
-        {% assign reversed_posts = site.posts | reverse %}
-
-        {% if reversed_posts %}
-            <link rel="next" href="{{site.baseurl}}{{reversed_posts.first.url}}" />
-        {% endif %}
-    </head>
-    <body>
-        <div class="book">
-
-            {%- include toc-date.html -%}
-
-            <div class="book-body">
-                <div class="book-header" role="navigation">
-                    <!-- Title -->
-                    <h1>
-                        <i class="fa fa-circle-o-notch fa-spin"></i>
-                        {% if page.title %}
-                            <a href="." >{{ page.title | escape }}</a>
-                        {% else %}
-                            <a href="." >{{ site.title | escape }}</a>
-                        {% endif %}
-                    </h1>
-                </div>
-
-                <div class="body-inner">
-                    {%- include body.html -%}
-
-                    <a href="{{site.baseurl}}/" class="navigation navigation-pre navigation-unique">
-                        <i class="fa"></i>
-                    </a>
-
-                    {% if reversed_posts %}
-                        <a href="{{site.baseurl}}{{reversed_posts.first.url}}" class="navigation navigation-next navigation-unique" aria-label="Next page: {{reversed_posts.first.title}}">
-                            <i class="fa fa-angle-right"></i>
-                        </a>
-                    {% endif %}
-                </div>
-            </div>
-
-            <script>
-            var gitbook = gitbook || [];
-            gitbook.push(function() {
-                gitbook.page.hasChanged({%- include metadata-home.json.tpl -%});
-            });
-            </script>
-        </div>
-
-        {%- include footer.html -%}
-
-    </body>
-</html>
+<div class="container">
+  <p><strong>Hello, My name is Cheney Zhang.</strong></p>
+  <p>I am a Java developer and also an independent software developer. In my spare time, I am preparing to build a set of Java based tools, hoping to contribute to the open source world and also hoping that someone will benefit from my open source software in the future.</p>
+  <cite>This is my homepage: <a>https://cheneyzhang.me/</a></cite>
+</div>
