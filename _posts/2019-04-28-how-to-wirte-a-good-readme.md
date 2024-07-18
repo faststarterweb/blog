@@ -6,7 +6,7 @@ category: start-up
 layout: post
 ---
 
-# Introduction
+## Introduction
 
 A complete README.md typically includes project title, description, installation guide, usage examples, contribution guide, license, and other sections. Each section is designed to provide readers with a more comprehensive and in-depth understanding of the project.
 > 一个完整的 README.md 通常包括项目标题、描述、安装指南、使用示例、贡献指南、许可证等部分。每一部分都是为了让读者更全面、深入地了解项目。
@@ -19,7 +19,7 @@ The title and description of the project are the core parts of the README, which
 This section provides detailed steps to guide readers on how to install and use the project. It should include all necessary commands, scripts, and other relevant information to ensure that readers can run and use the project smoothly.
 > 这一部分提供了详细的步骤，指导读者如何安装和使用项目。它应该包括所有必要的命令、脚本和其他相关信息，以确保读者能够顺利地运行和使用项目。
 
-# Project Title and Description
+## Project Title and Description
 In open source projects, an attractive title and clear description are crucial. It is not only the first impression of the project, but also a key factor determining whether people continue to read and explore.
 > 在开源项目中，一个吸引人的标题和清晰的描述是至关重要的。它不仅是项目的第一印象，也是决定人们是否继续阅读和探索的关键因素。
 
