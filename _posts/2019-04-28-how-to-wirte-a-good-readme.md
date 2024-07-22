@@ -214,3 +214,68 @@ In this section, we not only need to describe the specific purpose of each file 
 
 Organization and structure are common phenomena in human thinking and existence. Our thinking, behavior, and life all have their inherent structure and organization. In project management and code organization, the application of structured thinking can help us complete tasks more efficiently and systematically, and achieve goals.
 > 在人的思维和存在中，组织和结构是一种常见的现象。我们的思维、行为和生活都有其内在的结构和组织。在项目管理和代码组织中，这种结构化思维的运用能帮助我们更高效、更有条理地完成任务，实现目标。
+
+## 6. Contribution Guidelines (贡献指南)
+In open source projects, the participation of contributors is the key to the continuous progress and development of the project. This chapter will provide a detailed introduction on how to contribute to the project, as well as the process of submitting questions and pulling requests.
+> 在开源项目中，贡献者的参与是项目能够持续进步和发展的关键。本章节将详细介绍如何为项目做出贡献，以及提交问题和拉取请求的流程。
+
+### 6.1 How to Contribute to the Project (如何为项目做出贡献)
+Contributing to open source projects is not just about contributing code, but also includes document updates, problem reports, new feature suggestions, and more. As stated in "The Mythology of Man Month", "A good programmer not only writes code that works, but also code that can be maintained." This book emphasizes the importance of code quality and maintainability.
+> 贡献开源项目不仅仅是代码的贡献，还包括文档更新、问题报告、新功能建议等。正如《人月神话》中所说：“好的程序员不仅仅是写出能工作的代码，还需要写出能维护的代码。” 这本书强调了代码质量和维护性的重要性。
+
+#### 6.1.1 Understanding the Project (了解项目)
+- Read the project documentation and code to understand the project's goals, architecture, and design principles.
+- Participate in project discussions and meetings, and communicate with project members.
+> - 阅读项目的文档和代码，了解项目的目标、架构和设计原则。
+> - 参与项目的讨论和会议，与项目成员交流。
+
+#### 6.1.2 Finding Opportunities to Contribute (找到贡献的机会)
+- Check the project's issue tracker to find the problems you can solve.
+- Pay attention to the future plans and milestones of the project, and see which features you can contribute to.
+> - 查看项目的问题跟踪器，找到你可以解决的问题。
+> - 注意项目的未来计划和里程碑，看看哪些功能你可以贡献。
+
+#### 6.1.3 Contributing Code (贡献代码)
+- Fork project to your GitHub account.
+- Develop and test your code locally.
+- Submit Pull Request.
+> - Fork项目到你的GitHub账户。
+> - 在本地开发和测试你的代码。
+> - 提交Pull Request。
+
+### 6.1.4 Code Submission Standards (提交代码的标准)
+- The code must comply with the coding standards and style guidelines of the project.
+- The submitted code must pass all tests.
+- The code should include unit testing to ensure the correctness of functionality.
+> - 代码必须符合项目的编码标准和风格指南。
+> - 提交的代码必须通过所有测试。
+> - 代码应该包含单元测试，确保功能的正确性。
+
+### 6.2 The Process for Submitting Issues and Pull Requests (提交问题和拉取请求的流程)
+Submitting questions and pulling requests are common forms of open source contributions. Here is a simple process to help contributors effectively submit questions and pull requests.
+> 提交问题和拉取请求是开源贡献的常见形式。下面是一个简单的流程，帮助贡献者有效地提交问题和拉取请求。
+
+#### 6.2.1 Submitting Issues (提交问题)
+- Use clear and specific titles to describe the problem.
+- Provide a detailed description of the problem, including reproducing steps, expected behavior, and actual behavior.
+- If possible, attach screenshots or animations to illustrate the issue.
+> - 使用明确、具体的标题描述问题。
+> - 提供问题的详细描述，包括重现步骤、预期行为和实际行为。
+> - 如果可能，附加屏幕截图或动画来说明问题。
+
+### 6.2.2 Submitting Pull Requests (提交拉取请求)
+- Use clear titles to describe the purpose of the pull request.
+- Provide a detailed description of your changes and their necessity in the description.
+- Ensure that your code complies with the coding standards and style guidelines of the project.
+> - 使用清晰的标题描述拉取请求的目的。
+> - 在描述中详细说明你的更改和这些更改的必要性。
+> - 确保你的代码符合项目的编码标准和风格指南。
+
+| Aspect | Submit Question | Submit Pull Request |
+| --- | --- | --- |
+| Title | Clear and Specific | Clear and Descriptive Purpose |
+| Description | Detailed including reproduting steps | Detailed description the necessity of change |
+| Additional Information | Screenshots or Animations | Compliant with coding standards and style guidelines |
+
+In the "Code Encyclopedia," the author emphasizes the importance of code quality and readability, saying, "Code is written for humans to read and for machines to execute." This sentence reminds us that when writing code, we should not only consider machines, but also the people who will read and maintain the code in the future.
+> 在《代码大全》中，作者强调了代码质量和可读性的重要性，他说：“代码是写给人看的，顺便给机器执行。” 这句话提醒我们，编写代码时不仅要考虑机器，还要考虑未来阅读和维护代码的人。
