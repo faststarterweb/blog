@@ -279,3 +279,36 @@ Submitting questions and pulling requests are common forms of open source contri
 
 In the "Code Encyclopedia," the author emphasizes the importance of code quality and readability, saying, "Code is written for humans to read and for machines to execute." This sentence reminds us that when writing code, we should not only consider machines, but also the people who will read and maintain the code in the future.
 > 在《代码大全》中，作者强调了代码质量和可读性的重要性，他说：“代码是写给人看的，顺便给机器执行。” 这句话提醒我们，编写代码时不仅要考虑机器，还要考虑未来阅读和维护代码的人。
+
+## 7. License (许可证)
+Choosing the appropriate license is a crucial step in open source projects. A license not only defines how others can use, modify, and distribute your project, but also expresses the project owner's attitude and restrictions towards these activities.
+> 在开源项目中，选择合适的许可证是至关重要的一步。许可证不仅定义了其他人可以如何使用、修改和分发你的项目，还表达了项目所有者对于这些活动的态度和限制。
+
+### 7.1 Choosing the Appropriate Open Source License (选择合适的开源许可证)
+When choosing a license, you need to consider the nature of the project, the target audience, and the way you want to interact with the community. For example, the MIT License allows others to freely use, modify, and distribute your code as long as they include the original license and copyright statement.
+> 选择许可证时，需要考虑项目的性质、目标受众以及你希望与社区的互动方式。例如，MIT 许可证（MIT License）允许他人自由使用、修改和分发你的代码，只要他们包含原始许可证和版权声明。
+
+As Richard Stallman said in "Free Software, Free Society," "Free software is about freedom and collaboration." This means choosing a license is also choosing a way to collaborate and share.
+> 正如 Richard Stallman 在《自由软件，自由社会》(Free Software, Free Society) 中所说：“自由软件是关于自由和合作。” 这意味着选择一个许可证，也是在选择一个合作和分享的方式。
+
+### 7.2 How to Add the License to Your Project (如何将许可证添加到你的项目中)
+Once you have selected the appropriate license, you need to add its text to the root directory of the project and typically name it "LICENSE" or "LICENSE. txt". This way, when others view, use, or contribute to your project, they can easily find and understand the license terms.
+> 一旦选择了合适的许可证，你需要将其文本添加到项目的根目录中，并通常命名为“LICENSE”或“LICENSE.txt”。这样，当其他人查看、使用或贡献于你的项目时，他们可以轻易地找到和理解许可证条款。
+
+| Step | Description |
+| --- | --- |
+| 1 | Choose an appropriate license |
+| 2 | Copy the license text | 
+| 3 | Create a file named "LICENSE" |
+| 4 | Paste the license text into the file |
+| 5 | Commit and push the changes |
+
+In this process, we are not only following a form and standard, but also establishing an open and free knowledge sharing platform. As Immanuel Kant stated in his "Critique of Pure Reason," "The free sharing of knowledge is an important force driving human progress." This is also reflected in our process of choosing and using open source licenses.
+> 在这个过程中，我们不仅是在遵循一个形式和规范，更是在建立一个开放和自由的知识共享平台。正如 Immanuel Kant 在《纯粹理性批判》(Critique of Pure Reason) 中所说：“知识的自由分享是推动人类进步的重要力量。” 这也反映在我们选择和使用开源许可证的过程中。
+
+#### 7.2.1 Types and Choices of Licenses (许可证的类型和选择)
+There are multiple types of open source licenses, each with its specific usage scenarios and limitations. For example, the GNU General Public License (GPL) requires anyone who uses, modifies, or distributes code under this license to make its changes public and use the same license.
+> 有多种类型的开源许可证，每种都有其特定的使用场景和限制。例如，GNU General Public License (GPL) 要求任何使用、修改或分发该许可证下代码的人都必须将其更改公开，并使用相同的许可证。
+
+In this world, knowledge and freedom complement each other. We achieve freedom by sharing knowledge, and promote the progress of knowledge through freedom. In this process, open source licenses play the role of bridges and links, connecting everyone who loves learning and sharing.
+> 在这个世界上，知识和自由是相辅相成的。我们通过分享知识来实现自由，通过自由来推动知识的进步。在这个过程中，开源许可证扮演着桥梁和纽带的角色，连接着每一个热爱学习和分享的人。
