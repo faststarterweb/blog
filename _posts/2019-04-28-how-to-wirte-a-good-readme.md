@@ -312,3 +312,37 @@ There are multiple types of open source licenses, each with its specific usage s
 
 In this world, knowledge and freedom complement each other. We achieve freedom by sharing knowledge, and promote the progress of knowledge through freedom. In this process, open source licenses play the role of bridges and links, connecting everyone who loves learning and sharing.
 > 在这个世界上，知识和自由是相辅相成的。我们通过分享知识来实现自由，通过自由来推动知识的进步。在这个过程中，开源许可证扮演着桥梁和纽带的角色，连接着每一个热爱学习和分享的人。
+
+## 8. Contact Information and Acknowledgements (联系信息和致谢)
+### 8.1 Provide Your Contact Information (提供你的联系信息)
+In open source projects, providing clear contact information is very important. This not only facilitates communication between other developers and you, but also helps establish an active, open, and friendly community atmosphere. You can add email, social media accounts, or other contact information in the README.md file.
+> 在开源项目中，提供清晰的联系信息是非常重要的。这不仅方便其他开发者与你交流，还有助于建立一个活跃、开放和友好的社区氛围。你可以在 README.md 文件中加入电子邮件、社交媒体账号或者其他联系方式。
+
+For example, you can write: "If you have any questions or suggestions, feel free to contact me at my email: your-email@example.com."
+> 例如，你可以写：“如果你有任何问题或建议，请随时通过我的电子邮件（your-email@example.com）与我联系。”
+
+### 8.2 Acknowledgements and Expressions of Gratitude to Contributors (致谢和表达对贡献者的感激)
+Behind every successful open source project, there is a community that supports and contributes. In this section, you can express your gratitude to those who have helped the project grow. As stated in "A Brief History of Humankind," "Cooperation is the secret to human success.
+> 每一个成功的开源项目背后，都有一个支持和贡献的社区。在这一部分，你可以表达对那些帮助项目成长的人的感激之情。正如《人类简史》中所说：“合作是人类成功的秘诀。”
+
+#### 8.2.1 Expressing Gratitude（表达感激）
+You can specify the names of the contributors or provide a link to a page for the contributors list. At the same time, you can also briefly describe their contributions to express your gratitude and recognition.
+For example:
+> 你可以具体列出贡献者的名字，或者提供一个链接到贡献者列表的页面。同时，也可以简要描述他们的贡献，以表达你的感激和认可。
+例如：
+
+| Contributor | Contribution Content | Contact Information |
+| --- | --- | --- |
+| Zhang San | Code optimization | zhangsan@example.com |
+| Li Si | Write a document | lisi@example.com |
+
+#### 8.2.2 Community Culture (社区文化)
+Establishing a positive, supportive, and friendly community culture is crucial. You can share some experiences and insights on how to give and receive help to encourage more people to participate in the project.
+> 建立一个积极、支持和友好的社区文化是非常重要的。你可以分享一些关于如何给予和接受帮助的经验和见解，以鼓励更多的人参与到项目中来。
+
+For example, you can write: "We welcome everyone's participation and contribution, regardless of your skill level, you have a place."
+> 例如，你可以写：“我们欢迎每一个人的参与和贡献，无论你的技能水平如何，都有你的一席之地。”
+
+This open and inclusive attitude, as stated in 'The Selfish Gene': 'Organisms are survival machines built from genes.' Here, everyone is a part of the project's success and has their own unique value and role.
+> 这种开放和包容的态度，正如《自私的基因》中所说：“生物体是由基因构建的生存机器。” 在这里，每个人都是项目成功的一部分，每个人都有其独特的价值和作用。
+
