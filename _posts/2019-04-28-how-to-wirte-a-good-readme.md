@@ -20,6 +20,10 @@ The title and description of the project are the core parts of the README, which
 This section provides detailed steps to guide readers on how to install and use the project. It should include all necessary commands, scripts, and other relevant information to ensure that readers can run and use the project smoothly.
 > 这一部分提供了详细的步骤，指导读者如何安装和使用项目。它应该包括所有必要的命令、脚本和其他相关信息，以确保读者能够顺利地运行和使用项目。
 
+### 1.3 Contribution Guide and Licence
+The contribution guide helps potential contributors understand how to participate in the project, while the license specifies the usage and distribution conditions of the project. These two parts are essential components of open source projects, protecting the rights of authors and specifying the rights and responsibilities of users and contributors.
+> 贡献指南帮助潜在的贡献者了解如何参与项目，而许可证则明确了项目的使用和分发条件。这两部分是开源项目不可或缺的组成部分，它们保护了作者的权益，也指明了用户和贡献者的权利和责任。
+
 ## 2. Project Title and Description (项目标题和描述)
 In open source projects, an attractive title and clear description are crucial. It is not only the first impression of the project, but also a key factor determining whether people continue to read and explore.
 > 在开源项目中，一个吸引人的标题和清晰的描述是至关重要的。它不仅是项目的第一印象，也是决定人们是否继续阅读和探索的关键因素。
