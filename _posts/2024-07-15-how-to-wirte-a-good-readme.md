@@ -5,7 +5,10 @@ date: 2024-07-15
 category: start-up
 layout: post
 ---
+> ##### TIP
+>
 > Source : [https://developer.aliyun.com/article/1468522](https://developer.aliyun.com/article/1468522)
+{: .block-tip }
 
 ## 1. Introduction (引言)
 
