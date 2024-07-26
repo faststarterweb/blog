@@ -15,7 +15,7 @@ layout: post
 {: .block-tip }
 
 ## Design Concept
-Quickly generate application framework.
+**Free and fast generation of application frameworks.**
 
 ## Detail Description
 
