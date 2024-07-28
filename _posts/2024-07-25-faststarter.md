@@ -25,6 +25,13 @@ layout: post
 ### Project
 - ```Maven```
 
+### Style
+- **Simple :** A simple application structure
+- **DDD :** A DDD(Domain Driven Design) style application structure
+
+### Spring Boot
+- ```3.4.0 (SNAPSHOT)```, ```3.4.0 (M1)```, ```3.3.2```, ```3.2.9 (SNAPSHOT)```, ```3.2.8```
+
 ### Project Metadata
 - **Group :** ```com.example```
 - **Artifact :** ```demo```
@@ -33,10 +40,6 @@ layout: post
 - **Package name :** ```com.example.demo```
 - **Packaging :** ```Jar``` ```War```
 - **Java Version :** ```11``` ```17``` ```21``` ```22```
-
-### Style
-- **Simple :** A simple application structure
-- **DDD :** A DDD(Domain Driven Design) style application structure
 
 ### Dependencies
 - **DEVELOPER TOOLS :** ```GraalVM Native Support```, ```GraphQL DGS Code Generation```, ```Spring Boot DevTools```, ```Lombok```, ```Spring Configuration Processor```, ```Docker Compose Support```, ```Spring Modulith```
