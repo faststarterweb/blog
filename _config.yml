@@ -1,7 +1,7 @@
 # Configurations
-title:            Cheney Zhang Blog
-longtitle:        Cheney Zhang Blog
-author:           Cheney Zhang
+title:            FastStarter Development Blog
+longtitle:        FastStarter Development Blog
+author:           FastStarter
 # email:            sighingnow@gmail.com
 description: >
   I am a Java developer and also an independent software developer. 
@@ -10,7 +10,7 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://cheneyzhang.me'
+# url:              'https://cheneyzhang.me'
 baseurl:          '/blog'
 rss:              RSS
 
