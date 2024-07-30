@@ -8,7 +8,7 @@ layout: post
 
 ## 1. Overview Page
 
-Mainly divided into Get Started, Docs, and others
+Mainly divided into Get Started, Docs, and others.
 
 ![overview-page](../assets/image/overview-page.jpeg)
 
@@ -33,6 +33,7 @@ Follow step **1. Basic, 2. Configure, 3. Download** to opreate. Select the requi
 ## 3. Docs Page
 
 Mainly about the user documentation and FAQ of FastStarter, and is currently being improved.
+
 ![docs-page](../assets/image/docs-page.jpeg)
 
 
