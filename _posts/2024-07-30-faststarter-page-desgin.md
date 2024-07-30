@@ -1,5 +1,5 @@
 ---
-title: FastStarter Page Desgin
+title: FastStarter Page Design
 author: Cheney Zhang
 date: 2024-07-30
 category: start-up
