@@ -2,7 +2,7 @@
 title: How to Write a Good Readme
 author: Cheney Zhang
 date: 2024-07-15
-category: start-up
+category: good-readme
 layout: post
 ---
 > ##### TIP
