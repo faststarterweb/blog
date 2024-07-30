@@ -26,7 +26,7 @@ Discusson button will guide you to the faststarter`s github discusson.
 
 ## 2. Configure Page
 
-Follow step **1. Basic, 2. Configure, 3. Download to opreate**. Select the required configuration for your project, and click Download button to obtain the appliation code.
+Follow step **1. Basic, 2. Configure, 3. Download** to opreate. Select the required configuration for your project, and click **Download** button to obtain the application framework.
 
 ![configure-page](../assets/image/configure-page.jpeg)
 
