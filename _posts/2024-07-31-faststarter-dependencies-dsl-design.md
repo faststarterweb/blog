@@ -1,5 +1,5 @@
 ---
-title: FastStarter Dependenies DSL Design
+title: FastStarter Dependencies DSL Design
 author: Cheney Zhang
 date: 2024-07-31
 category: start-up
