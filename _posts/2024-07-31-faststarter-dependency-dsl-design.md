@@ -43,7 +43,7 @@ layout: post
 -  **maven :** maven configuration
 
 ## Example
-### Springboot Boot
+### Spring Boot
 ```black
 {
     "springboot": {
