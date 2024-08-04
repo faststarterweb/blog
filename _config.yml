@@ -1,6 +1,6 @@
 # Configurations
-title:            FastStarter Development Blog
-longtitle:        FastStarter Development Blog
+title:            FastStarter
+longtitle:        FastStarter
 author:           FastStarter
 # email:            sighingnow@gmail.com
 description: >
@@ -51,17 +51,21 @@ exclude:
   - _drafts
 
 collections:
-  pages:
+  # pages:
+    # output: true
+    # permalink: /:collection/:path/
+  # others:
+    # output: true
+    # permalink: /:collection/:path/
+  faststarter:
     output: true
-    permalink: /:collection/:path/
-  others:
-    output: true
-    permalink: /:collection/:path/
+    # permalink: /:collection/:path/
 
 ordered_collections:
   - posts
-  - pages
-  - others
+  # - pages
+  # - others
+  - faststarter
 
 page_width: 800px
 

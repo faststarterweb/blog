@@ -1,5 +1,5 @@
 ---
-title: How to Write a Good Readme
+title: Good Readme
 author: Cheney Zhang
 date: 2024-07-15
 category: good-readme

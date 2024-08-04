@@ -1,12 +1,12 @@
 ---
-title: FastStarter Dependency DSL Design
+title: Design - Dependency DSL
 author: Cheney Zhang
 date: 2024-07-31
 category: start-up
 layout: post
 ---
 
-## DSL Template
+## 1. DSL Template
 
 ```black
 {
@@ -31,7 +31,7 @@ layout: post
 
 ```
 
-## Feild Description
+## 2. Feild Description
 - **`dependency-key` :** used to determine a denpdency, when using, it needs to be replaced with a user-defined key
 -  **title :** the title displayed on the dependency list page in the frontend
 -  **latest-version :** the lastest version of the current dependency
@@ -42,8 +42,8 @@ layout: post
 -  **tip :** version tips message
 -  **maven :** maven configuration
 
-## Example
-### Spring Boot
+## 3. Example
+### 3.1 Spring Boot
 ```black
 {
     "springboot": {
@@ -71,7 +71,7 @@ layout: post
     }
 }
 ```
-### Spring Boot Starter Web
+### 3.2 Spring Boot Starter Web
 ```black
 {
     "spring-boot-starter-web": {
@@ -99,7 +99,7 @@ layout: post
     }
 }
 ```
-### Jackson Core
+### 3.3 Jackson Core
 ```black
 {
     "jackson-core": {
@@ -130,7 +130,7 @@ layout: post
     }
 }
 ```
-### Integrated configuration
+### 3.4 Integrated configuration
 ```black
 {
     "springboot": {

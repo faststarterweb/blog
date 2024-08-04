@@ -1,5 +1,5 @@
 ---
-title: FastStarter Metadata Design
+title: Design - Metadata
 author: Cheney Zhang
 date: 2024-07-25
 category: start-up
@@ -14,25 +14,25 @@ layout: post
 > Unspecified versions default to the latest version.
 {: .block-tip }
 
-## Design Concept
+## 1. Design Concept
 **Free and fast generation of application frameworks.**
 
-## Detail Description
+## 2. Detail Description
 
-### Language
+### 2.1 Language
 - ```Java```
 
-### Project
+### 2.2 Project
 - ```Maven```
 
-### Style
+### 2.3 Style
 - **Simple :** A simple application structure
 - **DDD :** A DDD(Domain Driven Design) style application structure
 
-### Spring Boot
+### 2.4 Spring Boot
 - ```3.4.0 (SNAPSHOT)```, ```3.4.0 (M1)```, ```3.3.2```, ```3.2.9 (SNAPSHOT)```, ```3.2.8```
 
-### Project Metadata
+### 2.5 Project Metadata
 - **Group :** ```com.example```
 - **Artifact :** ```demo```
 - **Name :** ```demo```
@@ -41,7 +41,7 @@ layout: post
 - **Packaging :** ```Jar``` ```War```
 - **Java Version :** ```11``` ```17``` ```21``` ```22```
 
-### Dependencies
+### 2.6 Dependencies
 - **DEVELOPER TOOLS :** ```GraalVM Native Support```, ```GraphQL DGS Code Generation```, ```Spring Boot DevTools```, ```Lombok```, ```Spring Configuration Processor```, ```Docker Compose Support```, ```Spring Modulith```
 - **WEB :** ```Spring Web```, ```Spring Reactive Web```, ```Spring for GraphQL```, ```Rest Repositories```, ```Spring Session```, ```Rest Repositories HAL Explorer```, ```Spring HATEOAS```, ```Spring Web Services```, ```Jersey```, ```Vaadin```, ```Netflix DGS```
 - **TEMPLATE ENGINES :** ```Thymeleaf```, ```Apache Freemarker```, ```Mustache```, ```Groovy Templates```
