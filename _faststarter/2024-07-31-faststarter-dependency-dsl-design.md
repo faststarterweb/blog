@@ -15,7 +15,7 @@ layout: post
         "description": "",
         "latest-version": "",
         "tags": [],
-        "categories": "",
+        "category": "",
         "versions": {
             "`1.xx`": {
                 "tip":"",
@@ -36,7 +36,7 @@ layout: post
 -  **title :** the title displayed on the dependency list page in the frontend
 -  **latest-version :** the lastest version of the current dependency
 -  **tags :** dependency tags
--  **categories :** dependency categories
+-  **category :** dependency category
 -  **versions :**  details of each version of the dependency
 -  **`1.xx` :** specific version number, when using, it needs to be replaced with a real version number
 -  **tip :** version tips message
@@ -51,7 +51,7 @@ layout: post
         "description": "Buession Framework Springboot Boot",
         "latest-version": "2.3.3",
         "tags": ["spring"],
-        "categories": "springboot",
+        "category": "springboot",
         "versions": {
             "2.3.3": {
                 "tip":"Vulnerabilities:CVE-2022-1471",
@@ -79,7 +79,7 @@ layout: post
         "description": "Starter for building web, including RESTful, applications using Spring MVC. Uses Tomcat as the default embedded container",
         "latest-version": "2.3.3",
         "tags": ["spring","framework","web","starter"],
-        "categories": "web-frameworks",
+        "category": "web-frameworks",
         "versions": {
             "3.3.2": {
                 "tip":"",
@@ -112,7 +112,7 @@ layout: post
             "serialization",
             "jackson"
         ],
-        "categories": ["json-libraries"],
+        "category": ["json-libraries"],
         "versions": {
             "2.17.2": {
                 "maven": {
@@ -138,7 +138,7 @@ layout: post
         "description": "Buession Framework Springboot Boot",
         "latest-version": "2.3.3",
         "tags": ["spring"],
-        "categories": "springboot",
+        "category": "springboot",
         "versions": {
             "2.3.3": {
                 "tip":"Vulnerabilities:CVE-2022-1471",
@@ -161,7 +161,7 @@ layout: post
         "description": "Starter for building web, including RESTful, applications using Spring MVC. Uses Tomcat as the default embedded container",
         "latest-version": "2.3.3",
         "tags": ["spring","framework","web","starter"],
-        "categories": "web-frameworks",
+        "category": "web-frameworks",
         "versions": {
             "3.3.2": {
                 "tip":"",
@@ -189,7 +189,7 @@ layout: post
             "serialization",
             "jackson"
         ],
-        "categories": ["json-libraries"],
+        "category": "json-libraries",
         "versions": {
             "2.17.2": {
                 "maven": {
