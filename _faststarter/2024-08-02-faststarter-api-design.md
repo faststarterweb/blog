@@ -64,7 +64,7 @@ layout: post
     "language" : "java",
     "project" : "maven",
     "style" : "",
-    "springbootVersion" : "",
+    "springBootVersion" : "",
     "projectMetadata" : {
         "group" : ""
         "artifact" : ""
