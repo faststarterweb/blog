@@ -60,12 +60,15 @@ collections:
   faststarter:
     output: true
     # permalink: /:collection/:path/
+  faq:
+    output: true
 
 ordered_collections:
-  - posts
+  - faq
   # - pages
   # - others
   - faststarter
+  - posts
 
 page_width: 800px
 
