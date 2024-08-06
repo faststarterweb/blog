@@ -1,11 +1,10 @@
 # Configurations
 title:            FastStarter
 longtitle:        FastStarter
-author:           FastStarter
+author:           Cheney Zhang
 # email:            sighingnow@gmail.com
 description: >
-  I am a Java developer and also an independent software developer. 
-  我是一名Java开发者, 也是一名独立软件开发者。
+  Free and fast generation of application frameworks.
 
 version:          1.0
 gitbook_version:  3.2.3
@@ -60,11 +59,11 @@ collections:
   faststarter:
     output: true
     # permalink: /:collection/:path/
-  faq:
+  introduction:
     output: true
 
 ordered_collections:
-  - faq
+  - introduction
   # - pages
   # - others
   - faststarter
