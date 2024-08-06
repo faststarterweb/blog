@@ -1,1 +1,1 @@
-# FastStart Development Blog
+# FastStarter Docs
