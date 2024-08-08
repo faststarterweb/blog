@@ -2,7 +2,7 @@
 title: Design - Page
 author: Cheney Zhang
 date: 2024-07-30
-category: start-up
+category: faststarter
 layout: post
 ---
 

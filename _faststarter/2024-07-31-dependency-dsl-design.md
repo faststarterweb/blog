@@ -2,7 +2,7 @@
 title: Design - Dependency DSL
 author: Cheney Zhang
 date: 2024-07-31
-category: start-up
+category: faststarter
 layout: post
 ---
 

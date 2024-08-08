@@ -2,7 +2,7 @@
 title: Design - Metadata
 author: Cheney Zhang
 date: 2024-07-25
-category: start-up
+category: faststarter
 layout: post
 ---
 
