@@ -2,7 +2,7 @@
 title:            FastStarter
 longtitle:        FastStarter
 author:           Cheney Zhang
-# email:            sighingnow@gmail.com
+email:            13155192291@163l.com
 description: >
   Free and fast generation of application frameworks.
 
@@ -44,7 +44,7 @@ markdown_ext:             markdown,mkdown,mkdn,mkd,md
 permalink:                /:categories/:year-:month-:day-:title:output_ext
 
 # Disqus comments
-# disqushandler:            sighingnow
+disqushandler:            sighingnow
 
 exclude:
   - _drafts
